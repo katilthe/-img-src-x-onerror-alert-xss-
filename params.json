@@ -1,0 +1,6 @@
+{
+  "name": "adsfadsf",
+  "tagline": "eeee",
+  "body": "[http://google.com](google)\r\n[\"><img src=x onerror=alert('xss')> ](\"><img src=x onerror=alert('xss')> )",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
